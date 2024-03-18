@@ -5,3 +5,5 @@ ver1.0 오늘 처음으로 깃을 공부하고있다
 //hey가 추가작업 했습니다
 
 //hihihihihihiihihihihihi?
+
+//git으로 이동시키기위한 추가
